@@ -1,7 +1,7 @@
 import { Card } from "antd";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import "./styles.css";
+import "./styles.scss";
 
 function CardCharacter() {
     const [characters, setCharacters] = useState([]);

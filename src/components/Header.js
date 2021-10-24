@@ -10,8 +10,8 @@ function Header() {
 
                 <Menu theme="dark" mode="horizontal" className="header-menu" style={{ backgroundColor: "#3D0000" }}>
                     <Menu.Item key="1" style><Link to="/">Agents</Link></Menu.Item>
-                    <Menu.Item key="2"><Link to="/Guns">Guns</Link></Menu.Item>
-                    <Menu.Item key="2"><Link to="/Maps">Maps</Link></Menu.Item>
+                    <Menu.Item key="2"><Link to="/weapons">Weapons</Link></Menu.Item>
+                    <Menu.Item key="2"><Link to="/maps">Maps</Link></Menu.Item>
 
 
                 </Menu>
